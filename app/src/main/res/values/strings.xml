@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Quizzler</string>
+    <string name="app_name">Quizz App</string>
 
     <string name="true_button">True</string>
     <string name="false_button">False</string>
@@ -7,9 +7,9 @@
 
 
     <string name="incorrect_toast">Wrong!</string>
-    <string name="correct_toast">You got it!</string>
+    <string name="correct_toast">Right!</string>
 
-    <string name="question_1">Valentine\'s day is banned in Saudi Arabia.</string>
+    <string name="question_1">Islamabad is the capital of Pakistan.</string>
     <string name="question_2">A slug\'s blood is green.</string>
     <string name="question_3">Approximately one quarter of human bones are in the feet.</string>
     <string name="question_4">The total surface area of two human lungs is approximately 70 square metres.</string>
@@ -22,5 +22,6 @@
     <string name="question_11">The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.</string>
     <string name="question_12">No piece of square dry paper can be folded in half more than 7 times.</string>
     <string name="question_13">Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
+    <string name="Complete">Test Completed, See Result</string>
 
 </resources>
